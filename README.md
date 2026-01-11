@@ -40,6 +40,8 @@ Voice-controlled desktop automation system.
 ### 🔹 WhatsApp Auto-Reply NLP Chatbot  
 Auto-replies to messages using NLP and automation.
 
+### 🔹 JobShield-AI
+AI-Powered Resume & Job Match Fraud Detection
 ---
 
 ## 🌐 Connect with Me  
